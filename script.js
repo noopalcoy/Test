@@ -17,7 +17,7 @@ const messages = [
     },
     {
         text: "yaudah deh T-T",
-        image: "https://pin.it/18eufENP5"
+        image: "https://imgbb.com/"
     }
 ];
 
