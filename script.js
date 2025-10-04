@@ -9,15 +9,15 @@ window.addEventListener('load', () => {
 const messages = [
     {
         text: "plss mau dong",
-        image: "https://i.pinimg.com/736x/1e/7c/6f/1e7c6ff7a0c26f7eaefbce683656193d.jpg"
+        image: "https://photos.app.goo.gl/9gyJgCENVQkqLpZc8"
     },
     {
-        text: "pls klik yg kiri",
-        image: "https://i.pinimg.com/736x/90/73/a9/9073a9359bff531cd830ae7384752934.jpg"
+        text: "LAH, gamau ini?",
+        image: "https://photos.app.goo.gl/FDjvufaiz7qk76MB9"
     },
     {
-        text: "terakhir, kalo \"no\" yauda deh",
-        image: "https://i.pinimg.com/736x/a6/43/f5/a643f5a40db387585b56bc767b66fddb.jpg"
+        text: "yaudah deh, mau gimana lagi T-T",
+        image: "https://photos.app.goo.gl/Luv81z1vL5RT5Wdx6"
     }
 ];
 
@@ -160,3 +160,4 @@ const handleButtonDodge = (e) => {
 noBtn.addEventListener('mouseover', handleButtonDodge);
 noBtn.addEventListener('touchstart', handleButtonDodge, { passive: false });
 noBtn.addEventListener('touchmove', (e) => e.preventDefault(), { passive: false });
+
